@@ -20,7 +20,7 @@ A mobile application for managing medical prescriptions, built with React Native
 ## Quick Start
 
 # Clone the repo:  
-   git clone https://github.com/yourusername/prescription-app.git
+   git clone  https://github.com/vivekremiji1993/MyPrescriptionsApp
    cd MyPrescriptions
 
 
